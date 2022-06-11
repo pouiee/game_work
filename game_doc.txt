@@ -1,0 +1,18 @@
+crafting tower defence game
+ ideas
+ - random drops from enemies and bosses can be used to create new towers
+ - start with multiple base towers
+ - level-based (actual defense of bases)
+ - no set tower areas (towers anywhere)
+ - build/siege phase
+ - DEFEND THE KEEP!
+ - higher elevation -> longer range?
+ - return to home base between stages?
+ - reverse tower defense stages? (Conquests)
+
+what I need:
+ - enemy model
+ - player model (extra)
+ - whole map w/ path
+ - attributes(?)
+ - working demo on my way
